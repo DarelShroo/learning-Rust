@@ -1,0 +1,1 @@
+C:\Users\velocitechsl\IdeaProjects\startingWithRust\target\debug\startingWithRust.exe: C:\Users\velocitechsl\IdeaProjects\startingWithRust\src\Vstruct.rs C:\Users\velocitechsl\IdeaProjects\startingWithRust\src\main.rs C:\Users\velocitechsl\IdeaProjects\startingWithRust\src\modulo.rs
